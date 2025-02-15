@@ -7,7 +7,7 @@
 - Las tecnologias que suelo usar son:
   Lenguaje de etiquetas HTML y CSS, también Lenguaje de programación Python
 
-- 📫 Podeis contactarme a mi correo "D.calavia@icloud.com" y tambien en mi Linkdin: https://www.linkedin.com/in/david-calavia-almansa-326aa2350/
+- 📫 Podeis contactarme a mi correo "D.calavia@icloud.com" y tambien en mi Linkedin: https://www.linkedin.com/in/david-calavia-almansa-326aa2350/
 
 <!---
 DCalavia/DCalavia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
