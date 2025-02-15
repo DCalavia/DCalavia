@@ -1,8 +1,11 @@
-- 👋 Hola! Soy Davi Calavia, un desarrollador apasionado por la tecnologia y el codigo abierto, actualemnte estoy estudiando FrontEnd y Python. Siempre estoy buscando aprender cosas nuevas y espero participar algun dia en algun proyecto interesante!
+- 👋 Hola! Soy David Calavia, un desarrollador apasionado por la tecnologia y el codigo abierto, actualemnte estoy estudiando FrontEnd y Python. Siempre estoy buscando aprender cosas nuevas y espero participar algun dia en algun proyecto interesante!
 
-- 👀 Estoy interesado en seguir aprendiendo para especializarme en el campo de la ciberseguridad o la IA.
+- Estoy interesado en seguir aprendiendo para especializarme en el campo de la ciberseguridad o la IA.
 
-- 🌱 Actualemente estoy aprendiendo FrontEnd y Python.
+- Actualemente estoy aprendiendo FrontEnd y Python.
+
+- Las tecnologias que suelo usar son:
+  Lenguaje de etiquetas HTML y CSS, también Lenguaje de programación Python
 
 - 📫 Podeis contactarme a mi correo "D.calavia@icloud.com"
 
